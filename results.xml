@@ -1,0 +1,22 @@
+<testsuites id="" name="" tests="2" failures="0" skipped="0" errors="0" time="5.287825000000001">
+<testsuite name="example.spec.ts" timestamp="2024-11-22T13:48:29.006Z" hostname="chromium" tests="2" failures="0" skipped="0" time="3.694" errors="0">
+<testcase name="has title" classname="example.spec.ts" time="1.6">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-has-title-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-has-title-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="get started link" classname="example.spec.ts" time="2.094">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\example-get-started-link-chromium\video.webm]]
+
+[[ATTACHMENT|test-results\example-get-started-link-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
